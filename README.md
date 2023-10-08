@@ -1,5 +1,4 @@
 # Youtube-Homepage
-![Uploading Screenshot 2023-10-07 at 4.59.57 PM.jpeg…]()
 Hi, 
 
 ==>This website is a copy of the YouTube homepage.
