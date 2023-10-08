@@ -1,5 +1,4 @@
 # Youtube-Homepage
-(https://github.com/Bhavan-Prakash/Youtube-Homepage/assets/145261767/b789544e-1035-404d-98fa-d9b7aa0f8c82)
 
 Hi,
 
