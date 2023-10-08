@@ -24,5 +24,9 @@ Hi,
 
 ==>If you resize the web page then the thumbnail will also resize itself so that it can fit your screen.
 
-==> I can also add shadows and transitions to the buttons. For a better experience open it on a laptop or pc.
+==> I have also added shadows and transitions to the buttons. For a better experience open it on a laptop or pc.
 
+
+
+
+![Screenshot 2023-10-07 at 4 59 57 PM](https://github.com/Bhavan-Prakash/Youtube-Homepage/assets/145261767/71a0519a-d98a-4283-a228-2f440a92ca9f)
